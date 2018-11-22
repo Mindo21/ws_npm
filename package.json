@@ -21,8 +21,9 @@
     "url": "git+https://github.com/portsoc/ws_npm.git"
   },
   "dependencies": {
-    "express": "^4.16.2",
-    "qunit": "^0.9.1"
+    "express": "^4.16.4",
+    "qunit": "^0.9.1",
+    "underscore": "^1.9.1"
   },
   "bugs": {
     "url": "https://github.com/portsoc/ws_npm/issues"

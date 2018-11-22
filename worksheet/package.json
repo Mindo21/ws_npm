@@ -1,0 +1,15 @@
+{
+  "name": "worksheet",
+  "version": "1.0.0",
+  "description": "package for worksheet",
+  "main": "utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matus Minarovic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "underscore": "^1.9.1"
+  }
+}
